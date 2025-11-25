@@ -3,6 +3,7 @@ GitHub Crash Course
 Hello World!
 
 Some notes taken from the course
+
 .md = markdown
 ctrl l clears the tab on BASH
 
